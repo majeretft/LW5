@@ -66,7 +66,7 @@ const TokenSection = ({ token }) => {
 
   const messageToken = token ? (
     <React.Fragment>
-      Токен успешно для <b>VK API</b> найден в параметре <b>URL</b>
+      Токен для <b>VK API</b> успешно найден в параметре <b>URL</b>
     </React.Fragment>
   ) : (
     <React.Fragment>
